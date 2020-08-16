@@ -1,0 +1,8 @@
+venv/
+.idea/
+img/model
+img/user/resize_face
+models/
+model_data/
+test/
+__pycache__/
