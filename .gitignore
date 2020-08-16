@@ -1,7 +1,9 @@
 venv/
 .idea/
-img/model
-img/user/resize_face
+img/model/*
+img/user/*
+!img/model/resize_face
+!img/user/resize_face
 models/
 model_data/
 test/
